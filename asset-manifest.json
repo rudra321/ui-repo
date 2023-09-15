@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ui-repo/static/css/main.fb738550.css",
-    "main.js": "/ui-repo/static/js/main.17e57554.js",
+    "main.js": "/ui-repo/static/js/main.bc856295.js",
     "static/media/hero.jpg": "/ui-repo/static/media/hero.c3271c677697c7de0687.jpg",
     "static/media/neuron.jpg": "/ui-repo/static/media/neuron.84c2be031ff16f355b2d.jpg",
     "static/media/me4.jpg": "/ui-repo/static/media/me4.4be3152cacef555ae1e0.jpg",
@@ -9,10 +9,10 @@
     "static/media/rpsc_resume.pdf": "/ui-repo/static/media/rpsc_resume.123af431fe7a6b053cdf.pdf",
     "index.html": "/ui-repo/index.html",
     "main.fb738550.css.map": "/ui-repo/static/css/main.fb738550.css.map",
-    "main.17e57554.js.map": "/ui-repo/static/js/main.17e57554.js.map"
+    "main.bc856295.js.map": "/ui-repo/static/js/main.bc856295.js.map"
   },
   "entrypoints": [
     "static/css/main.fb738550.css",
-    "static/js/main.17e57554.js"
+    "static/js/main.bc856295.js"
   ]
 }
