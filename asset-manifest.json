@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ui-repo/static/css/main.7bd0e62e.css",
-    "main.js": "/ui-repo/static/js/main.3926732e.js",
+    "main.css": "/ui-repo/static/css/main.8183c5a6.css",
+    "main.js": "/ui-repo/static/js/main.b99ef794.js",
     "static/media/hero.jpg": "/ui-repo/static/media/hero.c3271c677697c7de0687.jpg",
     "static/media/neuron.jpg": "/ui-repo/static/media/neuron.84c2be031ff16f355b2d.jpg",
     "static/media/me3.jpg": "/ui-repo/static/media/me3.64e88f2d6dc306703391.jpg",
@@ -10,11 +10,11 @@
     "static/media/rpsc_resume.pdf": "/ui-repo/static/media/rpsc_resume.123af431fe7a6b053cdf.pdf",
     "static/media/blinkassist.png": "/ui-repo/static/media/blinkassist.128c78610ec97e3951ee.png",
     "index.html": "/ui-repo/index.html",
-    "main.7bd0e62e.css.map": "/ui-repo/static/css/main.7bd0e62e.css.map",
-    "main.3926732e.js.map": "/ui-repo/static/js/main.3926732e.js.map"
+    "main.8183c5a6.css.map": "/ui-repo/static/css/main.8183c5a6.css.map",
+    "main.b99ef794.js.map": "/ui-repo/static/js/main.b99ef794.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bd0e62e.css",
-    "static/js/main.3926732e.js"
+    "static/css/main.8183c5a6.css",
+    "static/js/main.b99ef794.js"
   ]
 }
