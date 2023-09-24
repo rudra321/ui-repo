@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ui-repo/static/css/main.fc843ab4.css",
+    "main.css": "/ui-repo/static/css/main.79500bcb.css",
     "main.js": "/ui-repo/static/js/main.308dfc07.js",
     "static/media/hero.jpg": "/ui-repo/static/media/hero.c3271c677697c7de0687.jpg",
     "static/media/neuron.jpg": "/ui-repo/static/media/neuron.84c2be031ff16f355b2d.jpg",
@@ -10,11 +10,11 @@
     "static/media/rpsc_resume.pdf": "/ui-repo/static/media/rpsc_resume.123af431fe7a6b053cdf.pdf",
     "static/media/blinkassist.png": "/ui-repo/static/media/blinkassist.128c78610ec97e3951ee.png",
     "index.html": "/ui-repo/index.html",
-    "main.fc843ab4.css.map": "/ui-repo/static/css/main.fc843ab4.css.map",
+    "main.79500bcb.css.map": "/ui-repo/static/css/main.79500bcb.css.map",
     "main.308dfc07.js.map": "/ui-repo/static/js/main.308dfc07.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc843ab4.css",
+    "static/css/main.79500bcb.css",
     "static/js/main.308dfc07.js"
   ]
 }
