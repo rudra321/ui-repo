@@ -1,0 +1,77 @@
+.paged {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-color: blue; */
+}
+
+h2 {
+  font-size: 24px;
+  color: white;
+  margin-bottom: 20px;
+}
+.box1 {
+  text-align: left;
+  background-color: brown;
+}
+.work-experience {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 50vh;
+  position: relative;
+}
+p {
+  font-size: 16px;
+  margin: 5px 0;
+}
+h3 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+/* .bxn {
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background-color: #007bff;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+} */
+
+/* Rainbow glow effect on hover */
+/* .bxn:hover {
+  background: linear-gradient(
+    45deg,
+    #ff0000,
+    #ff8000,
+    #ffff00,
+    #00ff00,
+    #0000ff,
+    #ff00ff,
+    #ff0000
+  );
+  background-size: 200% 200%;
+  animation: rainbowGlow 10s linear infinite;
+  color: black;
+  font-style: bold;
+} */
+
+/* Define the animation */
+/* @keyframes rainbowGlow {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+} */

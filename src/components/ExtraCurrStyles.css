@@ -1,0 +1,24 @@
+.extracurrmaincontainerStyles {
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  border-radius: 20px;
+}
+
+.extracurrcontainer{
+    color: white
+}
+
+.extracurrtextstyle{
+    color: white;
+}
+
+
+@media screen and (max-width: 768px) {
+    .extracurrmaincontainerStyles{
+        margin: 20px;
+    }
+}

@@ -1,0 +1,53 @@
+/* MyEduStyles.css */
+
+.section-container.education-container {
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  border-radius: 20px;
+}
+
+.card-entry.education-entry {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  margin: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+
+.card-heading.school-name {
+  font-size: 24px;
+  /* color: #333; */
+}
+
+.card-subtitle.duration {
+  font-size: 16px;
+  /* color: #555; */
+  color: black
+}
+
+.card-description.learned {
+  font-size: 16px;
+  color: #333;
+}
+
+.card-entry a {
+  color: #007bff;
+}
+
+.card-entry a:hover {
+  text-decoration: none;
+}
+
+
+@media screen and (max-width: 768px) {
+  .section-container.education-container{
+    margin: 20px
+  }
+}

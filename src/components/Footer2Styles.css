@@ -1,0 +1,71 @@
+/* Footer2Styles.css */
+
+.exp-sheet {
+  background-color: rgba(255, 255, 255, 0.1);
+  margin: 20px auto;
+  max-width: 800px;
+  border-radius: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.exp-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.comp-logo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.comp-img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.exp-details {
+  flex-grow: 1;
+}
+
+.role-heading {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.work-points li {
+  margin-bottom: 10px;
+  font-size: 16px;
+  text-align: start;
+}
+
+@media (max-width: 765px) {
+  .exp-sheet {
+    margin: 20px;
+  }
+  .exp-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .comp-logo {
+    margin: 0 0 10px;
+  }
+  .work-points li {
+    font-size: 14px;
+  }
+  .role-heading{
+    font-size: 24px;
+  }
+  .exp-sheet h1{
+    font-size: 24px;
+  }
+}
